@@ -15,12 +15,11 @@ To start training, run the following command:
 ```bash
 python train.py --dataroot ../data_256_512 --netG resnet_6blocks --model attngatedbamweight --name resnet6blocks_attngated_bam --gpu_ids 3 --batch_size 4 --input_nc 1 --output_nc 1
 
+## Testing
 To test the model, run:
-
+```bash
 python test.py --dataroot ../test --netG resnet_6blocks --model attngatedbamweight --name resnet6blocks_attngated_bam --gpu_ids -1 --epoch 5
 
 The dataroot contains some samples. Add more images you want to test. This zip file includes the best checkpoint at epoch 375.
-
-This code is heavily based from [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
-### Conclusion
- If you encounter any issues or have further questions, feel free to ask!
+### Infos
+This code is heavily based from [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix). If you encounter any issues or have further questions, feel free to ask!
