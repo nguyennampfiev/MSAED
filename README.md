@@ -1,6 +1,6 @@
 # MSAED
-Multi-scale Attention for Document Image Enhancement
-
+Multi-scale Attention for Document Image Enhancement [MSAED](https://link.springer.com/chapter/10.1007/978-3-030-86549-8_26) 
+The official code for implemention of paper at ICDAR 2021.
 ## Requirements
 - `pytorch==1.6.0`
 - `torchvision==0.7.0`
