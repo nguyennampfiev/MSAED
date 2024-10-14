@@ -1,0 +1,130 @@
+C 100 A-line10-cr.png
+C 100 A-line14-cr.png
+C 100 A-line15-cr.png
+C 100 A-line16-cr.png
+C 100 A-line17-cr.png
+C 100 A-line18-cr.png
+C 100 A-line1-cr.png
+C 100 A-line20-cr.png
+C 100 A-line21-cr.png
+C 100 A-line2-cr.png
+C 100 A-line4-cr.png
+C 100 A-line5-cr.png
+C 100 A-line6-cr.png
+C 100 A-line7-cr.png
+C 100 A-line9-cr.png
+C 100 A-line12-cr.png
+C 171 A-line1-cr.png
+C 171 A-line3-cr.png
+C 19-line1-cr.png
+C 19-line2-cr.png
+C 19-line3-cr.png
+C 19-line6-cr.png
+C 19-line7-cr.png
+C 19-line9-cr.png
+C 23-line11-cr.png
+C 23-line12-cr.png
+C 23-line13-cr.png
+C 23-line14-cr.png
+C 23-line8-cr.png
+C 24B-line10-cr.png
+C 24B-line11-cr.png
+C 24B-line14-cr.png
+C 24B-line15-cr.png
+C 24B-line16-cr.png
+C 24B-line17-cr.png
+C 24B-line19-cr.png
+C 24B-line1-cr.png
+C 24B-line21-cr.png
+C 24B-line22-cr.png
+C 24B-line23-cr.png
+C 24B-line24-cr.png
+C 24B-line3-cr.png
+C 24B-line4-cr.png
+C 24B-line6-cr.png
+C 24B-line8-cr.png
+C 24B-line9-cr.png
+C 30 A1-line11-cr.png
+C 30 A1-line12-cr.png
+C 30 A1-line15-cr.png
+C 30 A1-line16-cr.png
+C 30 A1-line17-cr.png
+C 30 A1-line18-cr.png
+C 30 A1-line1-cr.png
+C 30 A1-line20-cr.png
+C 30 A1-line21-cr.png
+C 30 A1-line22-cr.png
+C 30 A1-line24-cr.png
+C 30 A1-line2-cr.png
+C 30 A1-line3-cr.png
+C 30 A1-line5-cr.png
+C 30 A1-line6-cr.png
+C 30 A1-line8-cr.png
+C 30 A1-line9-cr.png
+C 30 A2-line1-cr.png
+C 30 A2-line2-cr.png
+C 30 A2-line4-cr.png
+C 30 A2-line5-cr.png
+C 30 A2-line6-cr.png
+C 30 A2-line8-cr.png
+C 30 A3-line1-cr.png
+C 30 A3-line2-cr.png
+C 30 A3-line4-cr.png
+C 30 A3-line6-cr.png
+C 30 A3-line7-cr.png
+C 30 A4-line1-cr.png
+C 30 B1-line1-cr.png
+C 30 B1-line2-cr.png
+C 30 B1-line4-cr.png
+C 30 B2-line1-cr.png
+C 30 B2-line3-cr.png
+C 30 B2-line4-cr.png
+C 30 B2-line5-cr.png
+C 30 B4-line1-cr.png
+C 30 B4-line3-cr.png
+C 30 B4-line4-cr.png
+C 30 B4-line5-cr.png
+C 30 B4-line6-cr.png
+C 32-line1-cr.png
+C 32-line2-cr.png
+C 47-line10-cr.png
+C 47-line12-cr.png
+C 47-line14-cr.png
+C 47-line16-cr.png
+C 47-line17-cr.png
+C 47-line18-cr.png
+C 47-line19-cr.png
+C 47-line1-cr.png
+C 47-line3-cr.png
+C 47-line4-cr.png
+C 47-line5-cr.png
+C 47-line7-cr.png
+C 4A-line11-cr.png
+C 4A-line12-cr.png
+C 4A-line13-cr.png
+C 4A-line14-cr.png
+C 4A-line16-cr.png
+C 4A-line18-cr.png
+C 4A-line19-cr.png
+C 4A-line1-cr.png
+C 4A-line4-cr.png
+C 4A-line6-cr.png
+C 4A-line7-cr.png
+C 61-line1-cr.png
+C 61-line2-cr.png
+C 62-line2-cr.png
+C 63-line1-cr.png
+C 63-line3-cr.png
+C 63-line4-cr.png
+C 63-line5-cr.png
+C 63-line7-cr.png
+C 64 A-line2-cr.png
+C 64 A-line3-cr.png
+C 64 A-line5-cr.png
+C 64 A-line6-cr.png
+C 64 A-line8-cr.png
+C 64 A-line9-cr.png
+C 64 B-line1-cr.png
+C 64 B-line2-cr.png
+C 64 B-line4-cr.png
+C 64 C-line1-cr.png
